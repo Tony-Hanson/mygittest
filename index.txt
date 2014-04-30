@@ -1,2 +1,7 @@
 1.This is the first line of code
 2. This is an enhancement to the index page
+
+
+
+This is a bug fix
+
