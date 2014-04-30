@@ -1,0 +1,2 @@
+This is the code for the splash screen
+This is the finished part of the Splash screen
